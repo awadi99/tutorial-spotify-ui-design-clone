@@ -13,3 +13,7 @@ Visually appealing color schemes and fonts.
 No JavaScript or frameworks were used, making this project a demonstration of the power of pure HTML and CSS in creating modern, user-friendly web designs.
 
 Feel free to explore and modify the code as you wish!
+
+How to use 
+
+First you have vs code
