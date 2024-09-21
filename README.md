@@ -18,4 +18,11 @@ How to use
 
 Firstly create a Folder Spotify UI Clone and put down the all downloaded file,
 Than unzip the folder (`project image`) and (`homework project image`)
-and Simple open first_prject.html on VS CODE 
+and Simple open first_prject.html on VS CODE
+
+
+
+
+
+
+
